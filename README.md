@@ -1,6 +1,6 @@
 # sentiments_analysis_with_python_fast_api_or_llm
 
-## REST API
+## FAST API
 
 ![Screenshot 2025-05-27 113407](https://github.com/user-attachments/assets/f1c12257-b98e-4099-b965-0fd0492f6a95)
 
