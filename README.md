@@ -1,9 +1,15 @@
 # sentiments_analysis_with_python_fast_api_or_llm
 
+## REST API
+
 ![Screenshot 2025-05-27 113407](https://github.com/user-attachments/assets/f1c12257-b98e-4099-b965-0fd0492f6a95)
+
+## MONGODB DATA SAVE 
+
 ![Screenshot 2025-05-27 113349](https://github.com/user-attachments/assets/c0e135f2-80ef-4ff2-ad1e-d113a9e1f83a)
 
 ## prompt 
+
 ![image](https://github.com/user-attachments/assets/6298e76d-4e72-490c-88df-f953fa86c544)
 
 
